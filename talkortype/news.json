@@ -1,1 +1,29 @@
-TalkOrType
+{
+  "news": [
+    {
+      "title": "Обновление системы новостей",
+      "content": "Мы добавили новую систему отображения новостей. Теперь интерфейс стал более стабильным и удобным.",
+      "banner": "https://png.pngtree.com/background/20230611/original/pngtree-picture-of-a-blue-bird-on-a-black-background-picture-image_3124189.jpg"
+    },
+    {
+      "title": "Скоро большое обновление",
+      "content": "В ближайшем обновлении будет переработан UI, улучшена производительность и добавлены новые функции.",
+      "banner": "https://thecity.m24.ru/b/d/SYketSiveYw5IPjWfurQC04VAxhsdX2wl4VGK3kftkTqqpuDxHXYBEb3KdEqJFNmHN2I2j8tqA3PYdbYIe71F2MJ5xZVjA8=FSOfRvVf81f2jnEnfxpJEA.jpg"
+    },
+    {
+      "title": "Исправлены баги",
+      "content": "Мы исправили несколько критических ошибок, связанных с отображением интерфейса и загрузкой данных.",
+      "banner": "https://storage.yandexcloud.net/ym-sites-static/ae6059b3-140.webp"
+    },
+    {
+      "title": "Новая система UI",
+      "content": "Теперь интерфейс поддерживает динамическое масштабирование и адаптивные элементы.",
+      "banner": ""
+    },
+    {
+      "title": "Добро пожаловать!",
+      "content": "Спасибо за использование нашей игры. Мы продолжаем активно развивать проект и добавлять новый контент.",
+      "banner": "https://i1.sndcdn.com/artworks-zeRuaozBxp3uQU5y-Mj0SaA-t1080x1080.jpg"
+    }
+  ]
+}
